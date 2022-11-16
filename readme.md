@@ -45,9 +45,9 @@
 * [Sprint Delivery Plan](https://github.com/IBM-EPBL/IBM-Project-50185-1660898792/blob/main/Project%20Design%20%26%20Planning/Project%20Planing/Sprint%20plan.pdf)
 
 ## Project Development Phase
-* [Sprint I](https://github.com/IBM-EPBL/IBM-Project-50185-1660898792/blob/main/Project%20Development%20Phase/Sprint%201/Project%20development%20phase%20of%20sprint%201.pdf)
-* [Sprint II](https://github.com/IBM-EPBL/IBM-Project-50185-1660898792/blob/main/Project%20Development%20Phase/Sprint%202/Project%20development%20phase%20of%20sprint%202.pdf)
-* [Sprint III](https://github.com/IBM-EPBL/IBM-Project-50185-1660898792/blob/main/Project%20Development%20Phase/Sprint%203/Project%20development%20phase%20of%20sprint%203.pdf)
+* [Sprint I](https://github.com/IBM-EPBL/IBM-Project-50185-1660898792/tree/main/Project%20Development%20Phase/Sprint%201)
+* [Sprint II](https://github.com/IBM-EPBL/IBM-Project-50185-1660898792/tree/main/Project%20Development%20Phase/Sprint%202)
+* [Sprint III](https://github.com/IBM-EPBL/IBM-Project-50185-1660898792/tree/main/Project%20Development%20Phase/Sprint%203)
 * [Sprint IV](https://github.com/IBM-EPBL/IBM-Project-50185-1660898792/blob/main/Project%20Development%20Phase/Sprint%204/Project%20development%20phase%20of%20sprint%204.pdf)
 
 
