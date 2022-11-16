@@ -52,5 +52,5 @@
 
 
 ## Project Deliverables
-* [Final Code](https://github.com/IBM-EPBL/IBM-Project-50185-1660898792/blob/main/Project%20Development%20Phase/Sprint%201/Project%20development%20phase%20of%20sprint%201.pdf)
+* [Final Code](https://github.com/IBM-EPBL/IBM-Project-50185-1660898792/tree/main/Final%20Deliverables/Final%20Code)
 
